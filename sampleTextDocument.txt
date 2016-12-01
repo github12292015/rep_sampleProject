@@ -1,2 +1,8 @@
 This is Just a txt File, to test how to use GIt Hub repository
 Edit
+
+1) create a Git-Hub Account, share userName with the Rep- Owner to Add you as a Contrubutor
+2) Validate Commit Actions.
+3) View the Dashboards
+4) Create Branch
+5) Perform Changes and do the Pull Requests.
